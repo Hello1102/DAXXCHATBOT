@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/DAXXTEAM/DAXXCHATBOT",
+  "repository": "https://github.com/Hello1102/DAXXCHATBOT",
   "env": {
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
